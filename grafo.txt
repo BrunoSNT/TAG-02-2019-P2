@@ -1,0 +1,413 @@
+graph
+[
+  node
+  [
+    id 1
+    nome Calculo_1
+    creditos 6
+    codigo 101010
+  ]
+  node
+  [
+    id 2
+    nome Introducao_a_Sistemas_Computacionais
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 3
+    nome Fundamentos_Teoricos_da_Computacao
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 4
+    nome Algoritmos_e_Programacao_de_Computadores
+    creditos 6
+    codigo 
+  ]
+  node
+  [
+    id 5
+    nome Informática_e_Sociedade
+    creditos 2
+    codigo 
+  ]
+  node
+  [
+    id 6
+    nome Circuitos_Lógicos
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 7
+    nome Laboratório_de_Circuitos_Lógicos
+    creditos 2
+    codigo
+  ]
+  node
+  [
+    id 8
+    nome Estruturas_de_Dados
+    creditos 4
+    codigo
+  ]
+  node
+  [
+    id 9
+    nome Calculo_2
+    creditos 6
+    codigo
+  ]
+  node
+  [
+    id 10
+    nome Introducao_a_Álgebra_Linear
+    creditos 4
+    codigo
+  ]
+  node
+  [
+    id 11
+    nome Organizacao_e_Arquitetura_de_Computadores
+    creditos 4
+    codigo
+  ]
+  node
+  [
+    id 12
+    nome Técnicas_de_Programacao_1
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 13
+    nome Álgebra_1
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 14
+    nome Cálculo_Numérico
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 15
+    nome Probabilidade_e_Estatística
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 16
+    nome Lógica_Computacional_1
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 17
+    nome Técnicas_de_Programacao_2
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 18
+    nome Organizacao_de_Arquivos
+    creditos 4
+    codigo
+  ]
+  node
+  [
+    id 19
+    nome Teoria_e_Aplicacao_de_Grafos
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 20
+    nome Redes_de_Computadores
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 21
+    nome Linguagens_de_Programacao
+    creditos 4
+    codigo
+  ]
+  node
+  [
+    id 22
+    nome Programacao_Concorrente
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 23
+    nome Engenharia_de_Software
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 24
+    nome Bancos_de_Dados
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 25
+    nome Introducao_a_Inteligência_Artificial
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 26
+    nome Software_Básico
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 27
+    nome Fundamentos_de_Sistemas_Operacionais
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 28
+    nome Autômatos_e_Computabilidade
+    creditos 6
+    codigo 
+  ]
+  node
+  [
+    id 29
+    nome Sistemas_de_Informacao
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 30
+    nome Computacao_Experimental
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 31
+    nome Projeto_e_Análise_de_Algoritmos
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 32
+    nome Compiladores
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 33
+    nome Seguranca_Computacional
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 34
+    nome Metodologia_Científica
+    creditos 2
+    codigo
+  ]
+  node
+  [
+    id 35
+    nome Tópicos_Avancados_em_Computadores
+    creditos 2
+    codigo
+  ]
+  aresta
+  [
+    origem 1
+    destino 9
+  ]
+  aresta
+  [
+    origem 9
+    destino 14
+  ]
+  aresta
+  [
+    origem 4
+    destino 8
+  ]
+  aresta
+  [
+    origem 6
+    destino 11
+  ]
+  aresta
+  [
+    origem 7
+    destino 11
+  ]
+  aresta
+  [
+    origem 13
+    destino 28
+  ]
+  aresta
+  [
+    origem 1
+    destino 15
+  ]
+  aresta
+  [
+    origem 1
+    destino 31
+  ]
+  aresta
+  [
+    origem 9
+    destino 20
+  ]
+  aresta
+  [
+    origem 20
+    destino 33
+  ]
+  aresta
+  [
+    origem 15
+    destino 20
+  ]
+  aresta
+  [
+    origem 15
+    destino 18
+  ]
+  aresta
+  [
+    origem 15
+    destino 30
+  ]
+  aresta
+  [
+    origem 8
+    destino 30
+  ]
+  aresta
+  [
+    origem 8
+    destino 18
+  ]
+  aresta
+  [
+    origem 8
+    destino 29
+  ]
+  aresta
+  [
+    origem 8
+    destino 16
+  ]
+  aresta
+  [
+    origem 8
+    destino 25
+  ]
+  aresta
+  [
+    origem 8
+    destino 19
+  ]
+  aresta
+  [
+    origem 8
+    destino 31
+  ]
+  aresta
+  [
+    origem 8
+    destino 21
+  ]
+  aresta
+  [
+    origem 8
+    destino 26
+  ]
+  aresta
+  [
+    origem 8
+    destino 12
+  ]
+  aresta
+  [
+    origem 12
+    destino 17
+  ]
+  aresta
+  [
+    origem 12
+    destino 23
+  ]
+  aresta
+  [
+    origem 17
+    destino 22
+  ]
+  aresta
+  [
+    origem 22
+    destino 27
+  ]
+  aresta
+  [
+    origem 11
+    destino 22
+  ]
+  aresta
+  [
+    origem 11
+    destino 26
+  ]
+  aresta
+  [
+    origem 26
+    destino 32
+  ]
+  aresta
+  [
+    origem 21
+    destino 32
+  ]
+  aresta
+  [
+    origem 28
+    destino 32
+  ]
+  aresta
+  [
+    origem 18
+    destino 24
+  ]
+]
